@@ -13,8 +13,8 @@ This is a modified version of an already existing PSU. Link to the original: htt
 
 Front
 
-https://github.com/SonOfCheevap/PierogiNixie-PSU/blob/main/Pictures/front.png?raw=true
+![image](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/28ed102f-311e-4d3e-ac81-dfc8e943ca89)
 
 Back
 
-https://github.com/SonOfCheevap/PierogiNixie-PSU/blob/main/Pictures/back.png?raw=true
+![image](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/1f26ecaf-3657-43e3-a0b9-4d9f7360e9fc)
