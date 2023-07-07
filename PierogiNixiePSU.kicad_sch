@@ -1922,6 +1922,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 232.41 111.76 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 91dd506c-2c6c-46c6-9260-22ce158cb46f)
+    (property "Reference" "H2" (at 234.95 110.49 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 234.95 113.03 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3.5mm_Pad_Via" (at 232.41 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 232.41 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "PierogiNixiePSU"
+        (path "/aae08d1b-aae6-480a-b174-6c54c1927943"
+          (reference "H2") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "EL35901-eagle-import:R-EU_R0805") (at 205.74 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f81545b-d2cd-4add-bb84-ee3e9e459726)
