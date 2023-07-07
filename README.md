@@ -1,4 +1,4 @@
-![image](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/f75e5877-1714-4608-afca-4e923712ce2e)# PierogiNixie-PSU
+# PierogiNixie-PSU
 A simple 12v to 150v-250v DC-DC Power supply for use with nixie tubes.
 
 This is a modified version of an already existing PSU. Link to the original: https://www.electronics-lab.com/project/hv-nixie-dc-dc-switching-power-supply/
