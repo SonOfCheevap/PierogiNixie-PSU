@@ -5,7 +5,7 @@ This is a modified version of an already existing PSU. Link to the original: htt
 
 # Features
 - 12v barrel jack input and wire input
-- Adjustable output range of 150V to 220V
+- Adjustable output range of 150V to 250V
 - Wire output
 - Mounting for M3.5x6 Screw
 
