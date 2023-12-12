@@ -5,16 +5,15 @@ This is a modified version of an already existing PSU. Link to the original: htt
 
 # Features
 - 12v barrel jack input and wire input
-- Adjustable output range of 150V to 250V
+- Adjustable output range of 150V to 250V (Only on V1)
 - Wire output
 - Mounting for M3.5x6 Screw
 
 # Pictures
+AS OF 12/12/2023
 
 Front
-
-![image](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/c92cdf01-d099-4f21-831a-a926876746e8)
+![front](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/437f8606-6fff-4c94-afbf-1b89038ab3f6)
 
 Back
-
-![image](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/3fcba51b-46ca-49fc-936d-60c4e1a426bc)
+![back](https://github.com/SonOfCheevap/PierogiNixie-PSU/assets/108093325/4fc0c8e4-65cc-4af7-806a-366e5c0fca50)
