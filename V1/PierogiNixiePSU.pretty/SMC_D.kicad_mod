@@ -1,0 +1,51 @@
+(footprint "SMC_D" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>Chip Capacitor </b> Polar tantalum capacitors with solid electrolyte<p>\nSiemens Matsushita Components B 45 194, B 45 197, B 45 198<br>\nSource: www.farnell.com/datasheets/247.pdf")
+  (fp_text reference "REF**" (at -2.54 -2.54) (layer "F.SilkS")
+      (effects (font (size 0.93472 0.93472) (thickness 0.08128)) (justify left bottom))
+    (tstamp 585a4376-2956-4348-bfa9-357058c56baa)
+  )
+  (fp_text value "SMC_D" (at -2.54 3.81) (layer "F.Fab")
+      (effects (font (size 0.93472 0.93472) (thickness 0.08128)) (justify left bottom))
+    (tstamp 32354301-8879-4b08-9f25-62cba4b2b4ae)
+  )
+  (fp_line (start -3.5 -2.1) (end 3.5 -2.1)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 982d4e3f-b514-4754-a8a4-be23465023bb))
+  (fp_line (start -3.5 2.1) (end -3.5 -2.1)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 8897ab99-1dca-4f7c-bde6-4c22bf848894))
+  (fp_line (start 3.5 -2.1) (end 3.5 2.1)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp d9a2c334-60af-43eb-904b-3afb6b85f4a7))
+  (fp_line (start 3.5 2.1) (end -3.5 2.1)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp e7f87360-a3dd-4eaf-9443-b2023ec183e3))
+  (fp_poly
+    (pts
+      (xy -3.65 1.2)
+      (xy -3.45 1.2)
+      (xy -3.45 -1.2)
+      (xy -3.65 -1.2)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp fccf239d-8e74-41e4-855f-196d08bcbc37))
+  (fp_poly
+    (pts
+      (xy -3.5 2.1)
+      (xy -2.4 2.1)
+      (xy -2.4 -2.1)
+      (xy -3.5 -2.1)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp b23acfc4-d124-4e36-9234-25471163cfcb))
+  (fp_poly
+    (pts
+      (xy 3.65 -1.2)
+      (xy 3.45 -1.2)
+      (xy 3.45 1.2)
+      (xy 3.65 1.2)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 8baa5c47-54d4-4b2e-aae8-ad7371991aec))
+  (pad "+" smd rect (at -3.15 0) (size 2.4 2.8) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 850f2a15-5675-485f-8771-bea3084637a8))
+  (pad "-" smd rect (at 3.15 0 180) (size 2.4 2.8) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.1016) (thermal_bridge_angle 45) (tstamp 1de8fdef-57b9-4839-afd6-ce58f2a6af80))
+)
