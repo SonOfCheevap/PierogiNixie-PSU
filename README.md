@@ -3,17 +3,17 @@ A simple 12v to 150v-250v DC-DC Power supply for use with nixie tubes.
 
 This is a modified version of an already existing PSU. Link to the original: https://www.electronics-lab.com/project/hv-nixie-dc-dc-switching-power-supply/
 
-# Features
-- 12v barrel jack input and wire input
-- Adjustable output range of 150V to 250V (Only on V1)
-- Wire output
-- Mounting for M3.5x6 Screw
-
 ## New on V1.1
 - Adjustable output removed, now set to 170v (symbol still left in for easy modifiactions)
 - Cleaner Routing
 - Larger Traces
 - Barrel Jack moved to other side of board
+
+# Features
+- 12v barrel jack input and wire input
+- Adjustable output range of 150V to 250V (Only on V1)
+- Wire output
+- Mounting for M3.5x6 Screw
 
 # Pictures
 AS OF 12/12/2023
