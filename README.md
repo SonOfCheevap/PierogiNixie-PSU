@@ -9,6 +9,12 @@ This is a modified version of an already existing PSU. Link to the original: htt
 - Wire output
 - Mounting for M3.5x6 Screw
 
+# New on V1.1
+- Adjustable output removed, now set to 170v (symbol still left in for easy modifiactions)
+- Cleaner Routing
+- Larger Traces
+- Barrel Jack moved to other side of board
+
 # Pictures
 AS OF 12/12/2023
 
