@@ -8,6 +8,7 @@ This is a modified version of an already existing PSU. Link to the original: htt
 - Cleaner Routing
 - Larger Traces
 - Barrel Jack moved to other side of board
+- Updated symbols and footprints to be more "KiCad Compliant"
 
 # Features
 - 12v barrel jack input and wire input
