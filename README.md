@@ -21,7 +21,7 @@ This is a modified version of an already existing PSU. Link to the original: htt
 V1.2 AS OF 1/3/2025
 
 ### Front
-![front](Pictures/front.png)
+![front](V1.2/Pictures/front.png)
 
 ### Back
-![back](Pictures/back.png)
+![back](V1.2/Pictures/back.png)
